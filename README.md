@@ -99,6 +99,17 @@ else {
 
 
 
+### REVISI - PENAMBAHAN SOAL_2
+
+Soal ini disuruh untuk menyelesaikan misi ekspedisi dengan cara:
+1. Mengambil data dari file JSON (`gsxtrack.json`)
+2. Mengekstrak titik-titik penting (site_name dan koordinat)
+3. Menyusun data dalam format tertentu
+4. Menghitung titik tengah (midpoint) dari koordinat untuk menemukan lokasi pusaka
+
+
+
+
 
 
 
